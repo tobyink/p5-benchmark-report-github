@@ -5,7 +5,7 @@ use warnings;
 package Benchmark::Report::GitHub;
 
 our $AUTHORITY = 'cpan:TOBYINK';
-our $VERSION   = '0.001';
+our $VERSION   = '0.002';
 
 my @attributes = qw/ travis_repo_slug gh_name gh_email gh_token /;
 

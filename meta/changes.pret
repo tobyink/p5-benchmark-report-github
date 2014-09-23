@@ -4,3 +4,8 @@
 	issued  2014-07-30;
 	label   "Initial release".
 
+`Benchmark-Report-GitHub 0.002 cpan:TOBYINK`
+	issued  2014-09-23;
+	changeset [
+		item "Explicit dependency on Perl 5.6."^^Packaging;
+	].
