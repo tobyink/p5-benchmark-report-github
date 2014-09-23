@@ -3,6 +3,7 @@
 @prefix : <http://ontologi.es/doap-deps#>.
 
 `Benchmark-Report-GitHub`
+	:runtime-requirement    [ :on "perl 5.006"^^:CpanId ];
 	:test-requirement       [ :on "Test::More 0.47"^^:CpanId ];
 	:develop-recommendation [ :on "Dist::Inkt 0.001"^^:CpanId ];
 	.
